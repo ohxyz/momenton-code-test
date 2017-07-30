@@ -11,8 +11,7 @@ Demo: http://ademo.info/momenton-code-test/
 
 These two items listed above are not completed in the code. My effort is only put onto presentation of the tabular data.
 
-I appologise for this, as I don't have too much time for this test. The test cases have the minimum coverage. No unit test frameworks are used in this test.
-
+I appologise for this, as I don't have too much time for this test. The test cases have the minimum coverage. 
 
 ## Data flow: 
 
